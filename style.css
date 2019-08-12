@@ -1,0 +1,25 @@
+body {
+    background-image: url('background.jpeg');
+}
+
+.question-container {
+    margin: 350px;
+    margin-top: 50px;
+    background-color: white;
+    padding: 20px;
+}
+
+.jumbotron {
+    background-color: #002E2C;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    width: 100%;
+}
+
+.choice {
+    border: 1px solid;
+    border-radius: 10px;
+    padding: 4px;
+    cursor: pointer;
+}
